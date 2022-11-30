@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "title":"Web Development",
+        "image":"https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience"
+    },
+    {
+        "id":2,
+        "title":"App Development",
+        "image":"https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"Mobile application development is the set of processes and procedures involved in writing software for small, wireless computing devices, such as smartphones and other hand-held devices."
+    },
+    {
+        "id":3,
+        "title":"Software Development",
+        "image":"https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software."
+    },
+    {
+        "id":4,
+        "title":"Digital Marketing",
+        "image":"https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services"
+    },
+    {
+        "id":5,
+        "title":"SEO",
+        "image":"https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"SEO means Search Engine Optimization and is the process used to optimize a website's technical configuration, content relevance and link popularity so its pages can become easily findable, more relevant and popular towards user search queries, and as a consequence, search engines rank them better"
+    },
+    {
+        "id":6,
+        "title":"Graphic Designer",
+        "image":"https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"Graphic designers create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers. They develop the overall layout and production design for applications such as advertisements, brochures, magazines, and reports."
+    }
+
+]
